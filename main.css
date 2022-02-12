@@ -1,0 +1,16 @@
+.body{
+    position: relative;
+}
+
+.box{
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: blueviolet;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    padding-top: 40px;
+}
